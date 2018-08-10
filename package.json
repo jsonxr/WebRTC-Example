@@ -1,0 +1,24 @@
+{
+  "name": "webrtc-example",
+  "version": "1.0.0",
+  "description": "WebRTC Example ==============",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonxr/WebRTC-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonxr/WebRTC-Example/issues"
+  },
+  "homepage": "https://github.com/jsonxr/WebRTC-Example#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "ws": "^2.0.3"
+  }
+}
